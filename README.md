@@ -1,2 +1,2 @@
 # datasciencecoursera
-The data science toolkit
+The data science toolkit course
